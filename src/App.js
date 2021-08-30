@@ -23,6 +23,13 @@ const database = {
       description: "You don't know her, but she knows you.",
       rating: "4.5/5",
     },
+    {
+      name: "Harry Potter Series",
+      author: "J.K. Rowling",
+      description:
+        "Join Harry Potter and his friends into the world of magic while studying in Hogwarts School or WitchCraft and Wizardry and finding friendship and love on the way while fighting an evil wizard.",
+      rating: "5/5",
+    },
   ],
   Emotional: [
     {
@@ -37,6 +44,13 @@ const database = {
       author: "Jodi Picoult",
       description:
         "If you use one of your children to save the life of another, are you being a good mother or a very bad one?",
+      rating: "5/5",
+    },
+    {
+      name: "A Thousand Splendid Suns",
+      author: "Khaled Hosseini",
+      description:
+        "Mariam, an illegitimate teenager from Herat, is forced to marry a shoemaker from Kabul after a family tragedy.",
       rating: "5/5",
     },
   ],
@@ -55,6 +69,12 @@ const database = {
         "An anthology of thoughts stunningly penned down by writers which readers will find enthralling.",
       rating: "3/5",
     },
+    {
+      name: "My Favourite Nature Stories",
+      author: "Ruskin Bond",
+      description: "A beautiful collection of short stories from his life. ",
+      rating: "4.4/5",
+    },
   ],
   AudioBooks: [
     {
@@ -63,6 +83,20 @@ const database = {
       description:
         "An innovative audiobook featuring more than 30 voices. Sadie explores the depth of a sister's love - poised to be the next story listeners won't be able to pause.",
       rating: "5/5",
+    },
+    {
+      name: "Kaali Awaazein",
+      author: "Mishkka Singh Shekhawat",
+      description:
+        "A 10 episode fictional series from Audible starring Amitabh Bachchan, written and directed by Mantra.",
+      rating: "3/5",
+    },
+    {
+      name: "The Extraordinary Adventures of Arsene Lupin",
+      author: "Maurice Leblanc",
+      description:
+        "Take Arsene's adventures for a whirl, and witness how he measures up when he goes toe to toe with the redoubtable Sherlock Holmes himself.",
+      rating: "4/5",
     },
   ],
 };
